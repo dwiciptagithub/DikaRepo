@@ -1,0 +1,5 @@
+Country (id) - insert
+Employee (first name, last name, phone number) - insert
+Region(name) - insert
+Job (id) - insert
+Department (name) - insert
